@@ -1,0 +1,10 @@
+{
+  "domain": "playwright",
+  "name": "Playwright",
+  "documentation": "https://github.com/webtoucher/hass-playwright",
+  "issue_tracker": "https://github.com/webtoucher/hass-playwright/issues",
+  "codeowners": ["@webtoucher"],
+  "dependencies": [],
+  "requirements": [],
+  "version": "1.0.0"
+}
